@@ -1,0 +1,44 @@
+.fl_bg{
+    background-color:#6699cc;
+}
+.fl_ns{
+    border-radius:5px;
+    border-width:1px;
+    border-color:#99ccff;
+    border-style:solid;
+    height:auto!important;
+    min-height:198px;
+}
+.fl_nm{
+    height:30px;
+}
+.fl_text{
+    color:#ccffff;
+    text-align:center;
+    text-decoration:none;
+    font-size:17px;
+}
+.fl_im{
+    border-bottom-color:#ccffff;
+    border-bottom-style:solid;
+    border-bottom-width:1px;
+}
+.bl_bg{
+    background-color:#ccccff;
+}
+.bl_nm{
+    font-weight:bold;
+    text-align:center;
+}
+.bl_ct{
+    height:100px;
+    overflow:hidden;
+}
+.bl_mr{
+    height:15px;
+}
+.bl_mr a{
+    text-decoration:none;
+    color:#6699cc;
+    font-size:10px;
+}
